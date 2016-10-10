@@ -1,0 +1,17 @@
+
+.text {
+    margin: 120px 0 80px;
+    text-align: center;
+}
+
+.posters {
+    text-align: center;
+}
+.posters .poster {
+    display: inline-block;
+    max-width: 40%;
+    margin: 2%;
+}
+.posters .poster img {
+    max-width: 100%;
+}

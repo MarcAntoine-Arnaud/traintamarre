@@ -1,0 +1,73 @@
+
+.bandeau img {
+	max-height: 200px;
+}
+
+.spectacle.menu {
+	text-align: right;
+	list-style: none;
+	border-right: 40px solid rgb(110, 135, 156);
+	padding-right: 5px;
+}
+
+.spectacle.menu li a {
+	text-decoration: none;
+	color: #aaa;
+}
+
+.spectacle.menu li a:hover {
+	color: #000;
+}
+
+.croquis {
+	display: inline-block;
+	max-width: 500px;
+	width: 45%;
+}
+
+.croquis img {
+	max-width: 100%;
+}
+
+.illustration {
+	text-align: center;
+}
+
+.illustration img{
+	max-width: 100%;
+}
+
+.illustration.illustration2 {
+	float: right;
+}
+
+.credits {
+	text-align: right;
+	color: #aaa;
+	font-size: 0.8em;
+}
+
+.remerciement .logos {
+	text-align: center;
+}
+
+.remerciement .logo{
+	text-align: center;
+	width: 45%;
+	max-width: 300px;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.remerciement .logo.kkbb img{
+	max-width: 100%;
+}
+
+.remerciement .logo.spedidam img{
+	max-width: 100%;
+}
+
+.dossier,
+.video {
+	text-align: center;
+}

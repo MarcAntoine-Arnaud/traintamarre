@@ -1,0 +1,17 @@
+
+div.spectacle {
+	display: inline-block;
+	min-width: 200px;
+	width: 49%;
+	min-height: 200px;
+	text-align: center;
+}
+
+div.spectacle a{
+	text-decoration: none;
+}
+
+div.spectacle img{
+	max-height: 400px;
+	max-width: 100%;
+}

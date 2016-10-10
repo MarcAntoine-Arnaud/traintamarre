@@ -1,0 +1,41 @@
+
+.spectacle {
+	text-align: justify;
+}
+
+.spectacle h3 {
+	background: rgb(58, 82, 116); /* For browsers that do not support gradients */
+	background: -webkit-linear-gradient(left, rgb(58, 82, 116) 20%, #fff); /* For Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(left, rgb(58, 82, 116) 20%, #fff); /* For Opera 11.1 to 12.0 */
+	background: -moz-linear-gradient(left, rgb(58, 82, 116) 20%, #fff); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(left, rgb(58, 82, 116) 20%, #fff); /* Standard syntax */
+	color: #fff;
+	padding: 8px;
+}
+
+.spectacle .date {
+	color: rgb(179, 70, 73);
+}
+
+.spectacle div.image {
+	float: left;
+	height: 100%;
+	display: inline-block;
+	width: 20%;
+	text-align: left;
+}
+
+.spectacle div.image img {
+	max-width: 100%;
+	max-height: 100px;
+}
+
+.spectacle div.description {
+	display: inline-block;
+	width: 70%;
+	min-height: 100px;
+}
+
+.spectacle div.description p:nth-child(1) {
+	margin-top: 0;
+}
