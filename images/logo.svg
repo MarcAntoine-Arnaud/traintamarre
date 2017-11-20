@@ -1,0 +1,168 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="146.000000pt" height="131.000000pt" viewBox="0 0 146.000000 131.000000"
+ preserveAspectRatio="xMidYMid meet">
+<g transform="translate(0.000000,131.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<defs>
+	<clipPath id="cut-off-train">
+		<path d="M1080 540
+			M250 510 l300 0 0 -100
+			230 0
+			0 60
+			c 0 50 90 50 90 0
+			l0 -60
+			170 0
+			0 130
+			90 0
+			0 -130
+			170 0
+			c 50 -80 0 -220 0 -220
+			l50 0 0 -40 -90 0
+			0 -20
+			c 50 -120 -150 -120 -100 0
+			l0 20
+			-80 0
+			c 0 -150 -200 -150 -200 0
+			l-10 0
+			c 0 -150 -200 -150 -200 0
+			l-10 0
+			c 0 -150 -200 -150 -200 0
+			l-180 0
+			0 180
+			150 0
+			0 150
+			-180 0
+			" />
+	</clipPath>
+	<clipPath id="cut-off-cloud">
+		<path d="M1080 540
+			c0 250 -100 180 -120 150
+			-40 -60 -140 -20 -130 30
+			5 15 -10 15 -10 10
+			-40 -60 -140 -20 -170 100
+			5 15 -10 15 -10 10
+			-40 -60 -200 -20 -200 100
+			0 80 80 50 80 130
+			0 80 100 160 160 70
+			20 -30 60 -50 100 -30
+			25 20 50 0 60 -25
+			0 -30 0 -55 50 -45
+			120 30 150 -125 100 -175
+			120 -30 150 -125 100 -325z
+			" />
+	</clipPath>
+</defs>
+
+
+<path d="M1080 540
+	c0 250 -100 180 -120 150
+	-40 -60 -140 -20 -130 30
+	5 15 -10 15 -10 10
+	-40 -60 -140 -20 -170 100
+	5 15 -10 15 -10 10
+	-40 -60 -200 -20 -200 100
+	0 80 80 50 80 130
+	0 80 100 160 160 70
+	20 -30 60 -50 100 -30
+	25 20 50 0 60 -25
+	0 -30 0 -55 50 -45
+	120 30 150 -125 100 -175
+	120 -30 150 -125 100 -325z
+	" />
+<path d="
+	M250 510 l300 0 0 -100
+	230 0
+	0 60
+	c 0 50 90 50 90 0
+	l0 -60
+	170 0
+	0 130
+	90 0
+	0 -130
+	170 0
+	c 50 -80 0 -220 0 -220
+	l50 0 0 -40 -90 0
+	0 -20
+	c 50 -120 -150 -120 -100 0
+	l0 20
+	-80 0
+	c 0 -150 -200 -150 -200 0
+	l-10 0
+	c 0 -150 -200 -150 -200 0
+	l-10 0
+	c 0 -150 -200 -150 -200 0
+	l-180 0
+	0 180
+	150 0
+	0 150
+	-180 0
+	z"/>
+
+<path fill="#93c5cf" fill-opacity="0.9" d="M272 375 l0 -10 1200 0 0 10z" clip-path="url(#cut-off-train)"/>
+<path fill="#93c5cf" fill-opacity="0.9" d="M272 340 l0 -10 1200 0 0 10z" clip-path="url(#cut-off-train)"/>
+<path fill="#93c5cf" fill-opacity="0.9" d="M272 305 l0 -10 1200 0 0 10z" clip-path="url(#cut-off-train)"/>
+<path fill="#93c5cf" fill-opacity="0.9" d="M272 270 l0 -10 1200 0 0 10z" clip-path="url(#cut-off-train)"/>
+<path fill="#93c5cf" fill-opacity="0.9" d="M272 235 l0 -10 1200 0 0 10z" clip-path="url(#cut-off-train)"/>
+
+<path fill="#FFFFFF" d="M490 480 l0 -100 c -50 10 0 -60 10 0 l0 85
+	c 5 -20 25 -20 15 -60
+	c 0 -2 3 -2 3 0
+	c 15 40 -10 45 -18 75
+	z"/>
+
+<path fill="#FFFFFF" d="M602 415 l0 -10 80 -35 0 10z"/>
+<path fill="#FFFFFF" d="M602 395 l0 -10 80 -35 0 10z"/>
+<path fill="#FFFFFF" d="M602 410 l0 -100 c -50 10 0 -60 10 0 l0 100z"/>
+<path fill="#FFFFFF" d="M672 375 l0 -100 c -50 10 0 -60 10 0 l0 100z"/>
+
+<path fill="#FFFFFF" d="M822 410 l0 -100 c -50 10 0 -60 10 0 l0 100z"/>
+
+<path fill="#FFFFFF" d="M930 205 l0 -10 55 0 0 10z"/>
+<path fill="#FFFFFF" d="M962 310 l0 -100 c -50 10 0 -60 10 0 l0 100z"/>
+
+<path fill="#FFFFFF" d="M1082 410 l0 -100 c -50 10 0 -60 10 0 l0 100z"/>
+<path fill="#FFFFFF" d="M1202 375 l0 -100 c -50 10 0 -60 10 0 l0 100z"/>
+
+
+<path fill="#93c5cf" fill-opacity="0.9" d="M272 975 l0 -10 1200 0 0 10z" clip-path="url(#cut-off-cloud)"/>
+<path fill="#93c5cf" fill-opacity="0.9" d="M272 940 l0 -10 1200 0 0 10z" clip-path="url(#cut-off-cloud)"/>
+<path fill="#93c5cf" fill-opacity="0.9" d="M272 905 l0 -10 1200 0 0 10z" clip-path="url(#cut-off-cloud)"/>
+<path fill="#93c5cf" fill-opacity="0.9" d="M272 870 l0 -10 1200 0 0 10z" clip-path="url(#cut-off-cloud)"/>
+<path fill="#93c5cf" fill-opacity="0.9" d="M272 835 l0 -10 1200 0 0 10z" clip-path="url(#cut-off-cloud)"/>
+
+<path fill="#FFFFFF" d="M790 1080 l0 -100 c -50 10 0 -60 10 0 l0 85
+	c 5 -20 25 -20 15 -60
+	c 0 -2 3 -2 3 0
+	c 15 40 -10 45 -18 75
+	z"/>
+<path fill="#FFFFFF" d="M602 1015 l0 -10 80 -35 0 10z"/>
+<path fill="#FFFFFF" d="M602 995 l0 -10 80 -35 0 10z"/>
+<path fill="#FFFFFF" d="M602 1010 l0 -100 c -50 10 0 -60 10 0 l0 100z"/>
+<path fill="#FFFFFF" d="M672 975 l0 -100 c -50 10 0 -60 10 0 l0 100z"/>
+
+<path d="M342 1165 l0 -10 80 -35 0 10z"/>
+<path d="M342 1145 l0 -10 80 -35 0 10z"/>
+<path d="M342 1160 l0 -100 c -50 10 0 -60 10 0 l0 100z"/>
+<path d="M412 1125 l0 -100 c -50 10 0 -60 10 0 l0 100z"/>
+
+<path d="M102 1215 l0 -10 80 -35 0 10z"/>
+<path d="M102 1195 l0 -10 80 -35 0 10z"/>
+<path d="M102 1210 l0 -100 c -50 10 0 -60 10 0 l0 100z"/>
+<path d="M172 1175 l0 -100 c -50 10 0 -60 10 0 l0 100z"/>
+
+<path d="M290 980 l0 -100 c -50 10 0 -60 10 0 l0 85
+	c 5 -20 25 -20 15 -60
+	c 0 -2 3 -2 3 0
+	c 15 40 -10 45 -18 75
+	z"/>
+
+<path d="M220 1080 l0 -100 c -50 10 0 -60 10 0 l0 85
+	c 5 -20 25 -20 15 -60
+	c 0 -2 3 -2 3 0
+	c 15 40 -10 45 -18 75
+	z"/>
+</g>
+</svg>
